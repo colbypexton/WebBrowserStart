@@ -1,7 +1,7 @@
 # WebBrowserStart
 Web browser start up project (Python, JSON)
 
-This program allows users to create and save a list of websites as playlists (stored as json files) and quickly open them in their default web browser. The python libraries used in this program are webbrowser, json, and os. The program in its current state can only be run in the terminal.
+This program allows users to create and save a list of websites as playlists (stored as json files) and quickly open them in their default web browser. The Python libraries used in this program are webbrowser, json, and os. The program in its current state can only be run in the terminal.
 
 Program Features:
 
